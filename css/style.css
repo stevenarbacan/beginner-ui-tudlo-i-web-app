@@ -432,6 +432,9 @@ input[type="text"] {
   .search-input {
   width: 140px;
 }
+    .account-data {
+    font-size: 1.1em;
+  }
   .aside-bar {
     padding: 30px;
     display: block;
