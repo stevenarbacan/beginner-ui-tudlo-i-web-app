@@ -429,6 +429,9 @@ input[type="text"] {
   .toggle {
     display: block;
   }
+  .search-input {
+  width: 140px;
+}
   .aside-bar {
     padding: 30px;
     display: block;
